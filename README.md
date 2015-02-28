@@ -2,7 +2,7 @@ ghcjs-setup
 ===========
 
 ```bash
-git clone https://github.com/ryantrinkle/ghcjs-setup
+git clone --recursive https://github.com/ryantrinkle/ghcjs-setup
 cd ghcjs-setup
 ./ghcjs-setup
 ```
